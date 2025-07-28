@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Irmak Güney
 
-<!--
-**irmakguney/irmakguney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Investment Banker & AI Engineer**, passionate about merging financial analysis with technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Project
+
+### 📊 [Portfolio Tracker](https://github.com/irmakguney/portfolio-tracker)
+A real-time portfolio analysis app built with **Python** and **Streamlit**.  
+It tracks live stock/crypto data, calculates profit & loss, and displays visual insights.
+
+[View on GitHub](https://github.com/irmakguney/portfolio-tracker)
